@@ -6,6 +6,20 @@ It is a community of learners learning web application development using React a
 
 The members learn through hands-on development and collaboration. 
 
+# Why should you join it?
+
+Running code is the ultimate truth. You can learn best by actually doing it. Doing it alone is boring. Doing it with a helpful and welcoming community is fun.
+
+We would take projects where we gradually learn each group of related concepts and move to a higher level of complexity.
+
+You can highlight your contribution in the project repository to get a job of your dream or get suitable promotions in existing employment, or you can just contribute to the fun of learning.
+
+# How do I get started?
+
+We would add more content to help the new comers to get started. The community projects are open and can be viewed anytime.
+
+If you wish to contribute as a developer, please submit a request (https://github.com/react-web-apps/rwa-community-guidelines/issues/new) to add you as project member.
+
 # Code of conduct
 
 JAMStack code of conduct (https://jamstack.org/code-of-conduct/) is a fair representative until we draft our own.
