@@ -44,8 +44,9 @@ Below are the key technology stack that we would be using in developing web apps
 
 **Front-end app**
 
+* Mobile first, responsive page layouts
 * JAMStack architecture (https://jamstack.org/best-practices/)
-* React based application architecture
+* React based application architecture using next.js (nextjs.org) or Gatsby (gatsbyjs.com)
 * OAuth2 based authentication
 * PWA application
 * Backend call using REST API or GraphQL
