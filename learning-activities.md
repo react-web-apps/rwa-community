@@ -1,3 +1,19 @@
+# Development environment
+
+## Windows 10 (WSL2)  
+  If you are using Windows 10 (Home or Pro), setup WSL2  
+  - Install WSL2 and Ubuntu 20.04
+  - Install docker-desktop to run docker containers
+  - Install VSCode remote WSL extensions
+  - Install Windows Terminal
+  - Access Linux Files from Windows  
+  
+  https://www.sitepoint.com/wsl2-windows-terminal/
+
+
+## Docker container
+
+- Configure and access PostgreSQL as a docker container
 
 # React project creation
 
