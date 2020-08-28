@@ -1,6 +1,8 @@
 # Recommendations
 
 * Use Visual Studio Code (VSCode)
+
+* Use Markdown format for documentation
   
 * Use Linux (Ubuntu 20.04) server for 
   - Running the node.js apps
@@ -18,3 +20,11 @@ https://www.sitepoint.com/wsl2-windows-terminal/
 
 * Use Docker containers
   - Run PostgreSQL server
+
+
+# Share code / Online playgrounds
+
+* [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
+* [CodeSandbox](https://codesandbox.io/s/new)
+* [Glitch](https://glitch.com/edit/#!/remix/starter-react-template)
+* [Stackblitz](https://stackblitz.com/fork/react)
