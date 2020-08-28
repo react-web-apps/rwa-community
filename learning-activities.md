@@ -2,7 +2,7 @@
 # React project creation
 
 - create-react-app is good for react concepts and single page applications
-- next.js is good for multiple page websites / webapps with both static pages and server side rendering.
+- next.js is good for multiple page websites / webapps with both static site generation (SSG) and server side rendering (SSR).
 - gatsby.js is good for static site generation
 
 
