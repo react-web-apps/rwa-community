@@ -3,8 +3,8 @@
 # Community data
 
 * RWA Foundation day: Friday August 27, 2020 (7.30 pm IST)  
-* Telegram broadcast channel : https://t.me/react_web_apps  
-* Telegram group : private as of now, strictly on invitation.  
+* Telegram broadcast channel  : https://t.me/react_web_apps  
+* Telegram discussion group   : "React-Web-Apps (RWA) Discussion"  
 * GitHub community : https://github.com/react-web-apps/rwa-community-guidelines  
 * Projects : https://github.com/react-web-apps
 
