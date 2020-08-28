@@ -23,6 +23,7 @@ https://github.com/react-web-apps/rwa-community-guidelines/blob/master/learning-
 
 Development environment:  
 Recommended development environment configuration.
+https://github.com/react-web-apps/rwa-community-guidelines/blob/master/developer-handbook/development-environment.md
 
 
 
