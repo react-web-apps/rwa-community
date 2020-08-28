@@ -15,14 +15,29 @@ https://www.smashingmagazine.com/2020/07/differences-static-generated-sites-serv
 
 https://create-react-app.dev/
 
-Create a new react project
+Create a new react project  
 https://create-react-app.dev/docs/getting-started
 
 
 ## next.js
 
-
+TODO
 
 ## gatsby
+
+TODO
+
+# React project online hosting
+
+Static hosting
+
+* surge.sh
+* netlify
+* github pages
+
+Server hosting
+
+* heroku
+* ??
 
 
