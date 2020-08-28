@@ -1,5 +1,25 @@
 **RWA Community Guidelines**
 
+# Community data
+
+RWA Foundation day: Friday August 27, 2020 (7.30 pm IST)
+Telegram broadcast channel : https://t.me/react_web_apps
+Telegram group : private as of now, strictly on invitation.
+GitHub community : https://github.com/react-web-apps/rwa-community-guidelines
+Projects : https://github.com/react-web-apps
+
+# Important documents
+
+About community:
+https://github.com/react-web-apps/rwa-community-guidelines/blob/master/README.md
+
+Projects List:
+https://github.com/react-web-apps/rwa-community-guidelines/blob/master/rwa-projects.md
+
+
+
+
+
 # About React Web App Community
 
 It is a community of learners learning web application development using React and associated technologies. 
@@ -69,3 +89,6 @@ Below are the key technology stack that we would be using in developing web apps
 
 * List of projects in each category
 * Project status tracking
+
+
+
