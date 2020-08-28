@@ -10,14 +10,16 @@
 
 # Important documents
 
-About community:
+About community:  
 https://github.com/react-web-apps/rwa-community-guidelines/blob/master/README.md
 
-Projects List:
+Projects List:  
 https://github.com/react-web-apps/rwa-community-guidelines/blob/master/rwa-projects.md
 
+Learning activities:  
+These are not projects itself but important concepts to understand for doing projects. You need to practice these in your local development machine.
 
-
+https://github.com/react-web-apps/rwa-community-guidelines/blob/master/learning-activities.md
 
 
 # About React Web App Community
