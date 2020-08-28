@@ -22,7 +22,7 @@ These are not projects itself but important concepts to understand for doing pro
 https://github.com/react-web-apps/rwa-community-guidelines/blob/master/learning-activities.md
 
 Development environment:  
-Recommended development environment configuration.
+Recommended development environment configuration.  
 https://github.com/react-web-apps/rwa-community-guidelines/blob/master/developer-handbook/development-environment.md
 
 
