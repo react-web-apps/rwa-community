@@ -5,25 +5,25 @@
 * RWA Foundation day: Friday August 27, 2020 (7.30 pm IST)  
 * Telegram broadcast channel  : https://t.me/react_web_apps  
 * Telegram discussion group   : "React-Web-Apps (RWA) Discussion"  
-* GitHub community : https://github.com/react-web-apps/rwa-community-guidelines  
+* GitHub community : https://github.com/react-web-apps/rwa-community  
 * Projects : https://github.com/react-web-apps
 
 # Important documents
 
 About community:  
-https://github.com/react-web-apps/rwa-community-guidelines/blob/master/README.md
+https://github.com/react-web-apps/rwa-community/blob/master/README.md
 
 Projects List:  
-https://github.com/react-web-apps/rwa-community-guidelines/blob/master/rwa-projects.md
+https://github.com/react-web-apps/rwa-community/blob/master/rwa-projects.md
 
 Learning activities:  
 These are not projects itself but important concepts to understand for doing projects. You need to practice these in your local development machine.
 
-https://github.com/react-web-apps/rwa-community-guidelines/blob/master/learning-activities.md
+https://github.com/react-web-apps/rwa-community/blob/master/learning-activities.md
 
 Development environment:  
 Recommended development environment configuration.  
-https://github.com/react-web-apps/rwa-community-guidelines/blob/master/developer-handbook/development-environment.md
+https://github.com/react-web-apps/rwa-community/blob/master/developer-handbook/development-environment.md
 
 
 
@@ -45,7 +45,7 @@ You can highlight your contribution in the project repository to get a job of yo
 
 We would add more content to help the new comers to get started. The community projects are open and can be viewed anytime.
 
-If you wish to contribute as a developer, please submit a request (https://github.com/react-web-apps/rwa-community-guidelines/issues/new) to add you as project member.
+If you wish to contribute as a developer, please submit a request (https://github.com/react-web-apps/rwa-community/issues/new) to add you as project member.
 
 # Code of conduct
 
