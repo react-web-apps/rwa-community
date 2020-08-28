@@ -24,7 +24,7 @@ https://www.sitepoint.com/wsl2-windows-terminal/
 
 # Share code / Online playgrounds
 
-* [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
 * [CodeSandbox](https://codesandbox.io/s/new)
+* [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
 * [Glitch](https://glitch.com/edit/#!/remix/starter-react-template)
 * [Stackblitz](https://stackblitz.com/fork/react)

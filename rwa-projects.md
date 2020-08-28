@@ -15,6 +15,11 @@ The more we use core React, the more our projects would be simpler and robust al
 This project would also act as a reference for using or discussing any react concept. 
 
 
+### rwa-html-css-js-core
+https://github.com/react-web-apps/rwa-html-css-js-core
+
+Code snippets, websites, css using plain html, css (or scss/sass), javascript and web APIs.
+
 ## Websites
 
 ### rwa-team
@@ -25,7 +30,7 @@ React website about RWA team members.
 
 # Index
 
-
+https://github.com/react-web-apps/rwa-html-css-js-core
 https://github.com/react-web-apps/rwa-react-core
 https://github.com/react-web-apps/rwa-team
 

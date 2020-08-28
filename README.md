@@ -37,9 +37,13 @@ The members learn through hands-on development and collaboration.
 
 Running code is the ultimate truth. You can learn best by actually doing it. Doing it alone is boring. Doing it with a helpful and welcoming community is fun.
 
-We would take projects where we gradually learn each group of related concepts and move to a higher level of complexity.
+Become contributors to [react-web-apps](https://github.com/react-web-apps) products and showcase your ability to world.
 
 You can highlight your contribution in the project repository to get a job of your dream or get suitable promotions in existing employment, or you can just contribute to the fun of learning.
+
+We would create projects where we gradually learn each group of related concepts and move to a higher level of complexity.
+
+
 
 # How do I get started?
 
