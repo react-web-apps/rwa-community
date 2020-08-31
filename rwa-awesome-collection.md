@@ -62,5 +62,12 @@ A collection of awesome things regarding the React Web Apps community (RWA) and 
 - [Surge](https://surge.sh/)
 - [Hostman]()
 
+### Learning materials
+
+> Awesome learning materials for web app development
+
+- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [Awesome React](https://github.com/enaqx/awesome-react)
+
 
 
