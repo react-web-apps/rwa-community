@@ -51,4 +51,16 @@ A collection of awesome things regarding the React Web Apps community (RWA) and 
 - [Google Firebase]()
 - [Backendless]()
 - [AWS Mobile](https://aws.amazon.com/products/mobile/)
+
+
+### Frontend Cloud deployment 
+
+> JAMStack based frontend web apps can be deployed from GitHub to the cloud hosting providers for free
+
 - [Vercel](https://vercel.com/)
+- [Netlify]()
+- [Surge](https://surge.sh/)
+- [Hostman]()
+
+
+
