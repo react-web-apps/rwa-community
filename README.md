@@ -6,14 +6,14 @@
 * Telegram broadcast channel  : https://t.me/react_web_apps  
 * Telegram discussion group   : "React-Web-Apps (RWA) Discussion"  
 * GitHub community : https://github.com/react-web-apps/rwa-community  
-* Projects : https://github.com/react-web-apps
+* Repositories : https://github.com/react-web-apps
 
 # Important documents
 
 About community:  
 https://github.com/react-web-apps/rwa-community/blob/master/README.md
 
-Projects List:  
+RWA Projects List:  
 https://github.com/react-web-apps/rwa-community/blob/master/rwa-projects.md
 
 Learning activities:  
