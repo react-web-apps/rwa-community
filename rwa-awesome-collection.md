@@ -10,6 +10,7 @@ A collection of awesome things regarding the React Web Apps community (RWA) and 
 
 - [React Official Website](https://reactjs.org/)
 - [Awesome React Collection](https://github.com/enaqx/awesome-react)
+- [React Component Examples](https://reactjsexample.com/)
 
 ### React Web App Code Bundlers
 
@@ -50,3 +51,4 @@ A collection of awesome things regarding the React Web Apps community (RWA) and 
 - [Google Firebase]()
 - [Backendless]()
 - [AWS Mobile](https://aws.amazon.com/products/mobile/)
+- [Vercel](https://vercel.com/)
