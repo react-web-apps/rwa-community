@@ -7,6 +7,7 @@
 * Telegram discussion group   : "React-Web-Apps (RWA) Discussion"  
 * GitHub community : https://github.com/react-web-apps/rwa-community  
 * Repositories : https://github.com/react-web-apps
+* Component repository : https://bit.dev/rwa
 
 # Important documents
 
@@ -94,6 +95,10 @@ Below are the key technology stack that we would be using in developing web apps
 * PWA (Progressive Web Sites) 
 * Static web sites generated using data files
 * Server side rendered 
+
+# Component repository
+
+All shared and re-usable UI components, util functions  created by RWA community members would be hosted in https://bit.dev/rwa component repository. In any new project, we can import the RWA components from this repository. For more details, see the documents - https://docs.bit.dev/docs/quick-start
 
 
 # TODO
